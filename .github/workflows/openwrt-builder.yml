@@ -18,10 +18,10 @@ on:
 
 env:
   #REPO_URL: https://github.com/coolsnowwolf/lede
-  REPO_URL: https://github.com/TerryLip/AX6NSS/
+  REPO_URL: https://github.com/jiayong1913/TerryLip-AX6NSS
   REPO_BRANCH: qualcommax-6.x-nss-wifi
   FEEDS_CONF: feeds.conf.default
-  CONFIG_FILE: .config
+  CONFIG_FILE: AX6.config
   DIY_P1_SH: diy-part1.sh
   DIY_P2_SH: diy-part2.sh
   UPLOAD_BIN_DIR: false
